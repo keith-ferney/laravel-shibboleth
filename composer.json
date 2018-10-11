@@ -1,5 +1,5 @@
 {
-    "name": "razorbacks/laravel-shibboleth",
+    "name": "keith-ferney/laravel-shibboleth",
     "description": "Enable basic Shibboleth support for Laravel 5.x",
     "authors": [
         {
